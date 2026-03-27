@@ -1,0 +1,2 @@
+# Environment variables - NEVER commit this
+.env
